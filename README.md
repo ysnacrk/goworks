@@ -5,7 +5,7 @@ Bu depo aylardır merak ettiğim Go dilini öğrenmek ve Web'in temel çalışma
 # Kaynak
 
 Bu depoyu hazırlarken faydalanacağım kaynaklar.
-- [Go Examples] (https://gowebexamples.com/)
+[Go Examples] (https://gowebexamples.com/)
 - [Go Lang Docs] (https://golang.org/doc/articles/wiki/)
 - [Web Application with Go Lang] (https://github.com/astaxie/build-web-application-with-golang/)
 
